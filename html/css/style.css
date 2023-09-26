@@ -1,0 +1,379 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+	
+} 
+.bg-yellow{
+	background: #ffc657 no-repeat url(../imges/bg.png);
+	color:#3d2514;
+	
+}	
+.header{
+	margin-top:50px;
+}
+.menu-wrapper .nav-link{
+	margin-right:57px;
+	font-size:21px;
+	font-family: 'Bebas Neue', cursive;
+	
+}
+.navbar-light .menu-wrapper .nav-link{
+	color:#3d2514;
+}
+.sub-title{
+	border:1px #3d2514 dashed;
+	padding:5px;
+	font-family: 'Bebas Neue', cursive;
+	font-size:23px;
+}  
+.header-banner{
+	margin-top:116px;
+	margin-bottom:80px;
+}
+.banner-text{
+	padding-top:76px;
+}
+.header-burger{
+	font-size:98px;
+	text-shadow: 4px 5px 0px #fee8bb;
+	font-family: 'Alfa Slab One', cursive;
+} 
+.header-week{
+	font-size:56px;
+	text-shadow: 4px 5px 0px #fee8bb;
+	font-family: 'Alfa Slab One', cursive;
+}
+.burger-verity{
+	margin-top:78px;
+	margin-bottom:72px;
+	font-family: 'Bebas Neue', cursive;
+}
+.test-burger{
+	margin-bottom:33px;
+}
+.burger-catagory{
+	color: #f5f2f1;
+	margin:20px 0 0 20px;
+	font-family: 'Bebas Neue', cursive;
+}
+.burger-catagory h4{
+	font-size:25px;
+}
+.burger-catagory h1{
+	font-size:41px;
+	display:block;
+}
+.burger-catagory h1, h2, h4{
+	margin-bottom: 0;
+}
+.content{
+	color: #3d2514;
+	margin-bottom:65px;
+}
+.content h1, .upcoming-events h1{
+	font-family: 'Alfa Slab One', cursive;
+	font-size:50px;
+	margin-bottom:18px;
+	margin-top:30px;
+	color: #3d2514;
+}
+.content p{
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+}
+.sub-tag{
+	border:1px #ffc045 solid;
+	background-color: #ffc045;
+	padding:3px 15px;
+	font-family: 'Bebas Neue', cursive;
+	font-size:25px;
+}
+.burger-sm{
+	padding-top: 70px;
+}
+.order-btn{
+	background-color: #bf2222;
+	font-size:16px;
+	font-family: 'Alfa Slab One', cursive;
+	color: #fff;
+	padding:15px;
+}
+.burger-md{
+	padding-top:62px;
+}
+.upcoming-events{
+	margin-top:131px;
+	margin-bottom:80px;
+	box-shadow: 10px 17px 27px rgb(203 200 200);
+	padding:18px 8px 18px 25px;
+}
+.upcoming-events h1{
+	margin-top:0;
+	margin-bottom:25px;
+	font-size:41px;
+}
+.event-content{
+	padding-top:38px;
+}
+.event-content span{
+	font-family: 'Bebas Neue', cursive;
+	font-size:28px;
+	color:#3d3d3d;
+	line-height:0;
+}
+.event-content p{
+	font-family: 'Montserrat', sans-serif;
+	font-size:18px;
+	line-height: 30px;
+	color:#3d3d3d;
+}
+.booking-section span{
+	font-size:29px;
+	color: #3d2514;
+	font-family: 'Bebas Neue', cursive;
+}
+.booking-section h3{
+	font-size:50px;
+	color: #3d2514;
+	font-family: 'Alfa Slab One', cursive;
+	margin-bottom:70px;
+}
+.booking-info{
+	font-size:20px;
+	font-family: 'Bebas Neue', cursive;
+	color:#3d3d3d;
+	word-spacing:normal;
+}
+.booking-btn{
+	background-color: #bf2222;
+	font-size: 20px;
+	font-family: 'Alfa Slab One', cursive;
+	color:#fff;
+}
+.bottle-col{
+	padding-left: 80px;
+    padding-top: 98px;
+}
+.burger-wrapper{
+	margin-left: -120px;
+    margin-top: -87px;
+	width: 25%;
+}
+.burger-meal{
+	margin-left: 139px;
+    margin-top: -232px
+}
+.booking-content{
+	margin: bottom 0;;
+}
+.booking-chart{
+	margin-bottom: 0;
+}
+.bg-footer{
+	background: url(../imges/bg-footer.png);
+	color:#fff;
+	background-size: cover;
+}
+.icons {
+	margin-right:8px;
+}
+.icons i{
+	border:1px solid #fff;
+	background-color:#fff ;
+	border-radius:100%;
+	color:#000;
+	width:35px;
+	height:35px;
+	padding:7px 5px 6px 8px;
+	font-size:20px;
+} 
+.icons i:hover{
+	background-color:#5f6061;
+}
+.footer-content p{
+	width:512px;
+	font-size: 16px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top:50px;
+	margin-bottom: 150px;
+}
+.copyright{
+	font-size: 16px;
+	font-family: 'Bebas Neue', cursive;
+}
+.address{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 20px;
+	margin-bottom:161px;
+	margin-left: 150px;
+}
+.address a {
+	color: white;
+}
+.fa-map-marker-alt {
+	margin-right:30px;
+}
+.fa-envelope{
+	margin-right:25px;
+}
+.footer-content{
+	padding:84px 0 25px 44px;
+}
+.footer-info{
+	padding:238px 25px 22px 0;
+}
+@media all and (max-width: 600px){
+	.header-burger{
+		font-size:75px;
+		text-shadow: 4px 5px 0px #fee8bb;
+		font-family: 'Alfa Slab One', cursive;
+	} 
+	.burger-catagory{
+		word-spacing:2px
+	}
+	.more-fun{
+		font-size:29px ;
+    	display: inline;
+	}
+	.more-test{
+		font-size:29px ;
+    	display: inline;
+	}
+	.burger-middle{
+		padding-top: 22px;
+	}
+	.bottle-col{
+		padding-left: 32px;
+    	padding-top: 155px;
+	}
+	.booking-content{
+		margin-bottom:0;
+	}
+	.footer-logo{
+		width:90% ;
+	}
+	.footer-content p{
+		width: 355px;
+	}
+	.address{
+		margin-bottom: 188px;
+    	margin-left: 61px;
+	}
+	.booking-chart{
+		margin-bottom:190px;
+	}
+	.burger-meal{
+		width: 30%;
+		margin-left: 128px;
+    	margin-top: -17px;
+	}
+}
+@media all and (min-width:600px){
+	.address{
+		margin-bottom: 60px;
+    	margin-left: 42px;
+	}
+	.icons-wrapper{
+		float:left !important;
+		margin-left:45px;
+	}
+	.booking-chart{
+		margin-bottom:190px;
+	}
+	.burger-meal{
+		width: 30%;
+		margin-left: 215px;
+    	margin-top: -17px;
+	}
+	.footer-content p{
+		width: 420px;
+		margin-bottom: 70px;
+	}
+	.footer-info{
+		padding-top:25px;
+	}
+}
+@media only screen and (min-width: 768px) {
+	.header-burger{
+		font-size:76px;
+		text-shadow: 4px 5px 0px #fee8bb;
+		font-family: 'Alfa Slab One', cursive;
+	} 
+	.more-fun{
+		font-size:29px ;
+    	display: inline;
+	}
+	.more-test{
+		font-size:29px ;
+    	display: inline;
+	}
+	.burger-middle{
+		padding-top: 22px;
+	}
+	.bottle-col{
+		padding-left: 32px;
+    	padding-top: 155px;
+	}
+	.booking-content{
+		margin-bottom:0;
+	}
+	.burger-meal {
+		width: 60%;
+		margin-left: 59px;
+		margin-top: -53px;
+	}
+	.burger-wrapper{
+		width:36%;
+	}
+	.footer-logo{
+		width:90% ;
+	}
+	.footer-content p{
+		width: 355px;
+	}
+	.address{
+		margin:255px 0 67px 61px;
+	}
+	.icons-wrapper{
+		float:right !important;
+	}
+}
+@media only screen and (min-width: 992px) {
+	.header-burger{
+		font-size:98px;
+		text-shadow: 4px 5px 0px #fee8bb;
+		font-family: 'Alfa Slab One', cursive;
+	} 
+	.burger-middle{
+		padding-top: 0;
+	}
+	.burger-wrapper{
+		margin-left: -120px;
+		margin-top: -87px;
+		width: 250px
+	}
+	.bottle-col{
+		padding-left: 50px;
+		padding-top: 98px;
+		padding-right: 0;
+	}
+	.burger-meal{
+		margin-left: 139px;
+    	margin-top: -232px
+	}
+	.booking-chart{
+		margin-bottom: 0;
+	}
+	.booking-section{
+		padding-left: 0;
+	}
+	.address{
+		margin-bottom: 60px;
+        margin-top: 298px;
+	}
+}
+
+
+
+
